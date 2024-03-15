@@ -58,8 +58,8 @@ content = """
 </tr>
 <tr>
 <th>GOOGLe/th>
-<th>2$237.9 B</th>
 <th>6</th>
+<th>2$237.9 B</th>
 </tr>
 </table>
 </body>
@@ -80,8 +80,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![Screenshot 2024-03-15 034125](https://github.com/ajinajoshpin/simplewebserver/assets/148514578/1e894221-99f5-4be0-b22a-9a25c5b82763)
-![Screenshot 2024-03-15 034059](https://github.com/ajinajoshpin/simplewebserver/assets/148514578/18cd6388-bdf1-4527-b47c-c0b7f7cb57b3)
+![Screenshot 2024-03-15 034544](https://github.com/ajinajoshpin/simplewebserver/assets/148514578/d4f8cf6f-437c-40c9-85a9-b0b20aa44d02)
 
+## result :
+The program for implementing simple web server is executed successfully
 
 
 ## RESULT:
