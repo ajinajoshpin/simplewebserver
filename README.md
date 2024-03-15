@@ -82,9 +82,5 @@ httpd.serve_forever()
 ![Screenshot 2024-03-15 034125](https://github.com/ajinajoshpin/simplewebserver/assets/148514578/1e894221-99f5-4be0-b22a-9a25c5b82763)
 ![Screenshot 2024-03-15 034544](https://github.com/ajinajoshpin/simplewebserver/assets/148514578/d4f8cf6f-437c-40c9-85a9-b0b20aa44d02)
 
-## result :
-The program for implementing simple web server is executed successfully
-
-
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
